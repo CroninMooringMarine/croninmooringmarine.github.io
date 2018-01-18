@@ -1,5 +1,3 @@
-## Cronin Mooring & Marine
-
 Here for all of your maritime needs!
 
 ![Cronin Logo](./cronin mooring marine.jpg "Thanks for choosing us!")
